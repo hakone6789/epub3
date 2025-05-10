@@ -1,0 +1,8 @@
+Semua karya Iwao Otsuka. Diperbarui pada 202411. EPUB. PDF. MP4. Python 3. Javascript.  Semua dokumen dikompres menjadi satu file zip per beberapa bahasa. 
+ID_GL_  Gas dan cairan. Klasifikasi perilaku dan masyarakat. Aplikasi pada makhluk hidup dan manusia.
+ID_HD_  Jiwa dan masyarakat pada makhluk hidup secara umum. Penerapan pada manusia.
+ID_MLSL_  Gaya Hidup Mobile. Gaya hidup menetap. Asal-usul perbedaan jenis kelamin di antara masyarakat.
+ID_MSFS_  Masyarakat yang didominasi perempuan akan menguasai dunia.
+ID_MTR_  Materi secara umum, perilaku dan masyarakat. Aplikasi pada makhluk hidup dan manusia.
+ID_SD_  Perbedaan jenis kelamin dan dominasi wanita.
+ID_SPS_  Kelembaban. Luminositas. Suhu. Kekerasan. Keketatan. Ketegangan. Sensasi dan persepsi mereka. Penerapannya pada analisis psikologis sosial.

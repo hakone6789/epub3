@@ -1,0 +1,8 @@
+Iwao Otsuka'nın tüm eserleri. 202411'de güncellendi. EPUB. PDF. MP4. Python 3. Javascript.  Tüm belgeler birden fazla dil için tek bir zip dosyasına sıkıştırılmıştır.
+TR_GL_  Gazlar ve sıvılar. Davranış ve toplumların sınıflandırılması. Canlılar ve insanlar için uygulamalar.
+TR_HD_  Genel olarak canlılarda ruh ve toplum. İnsanlara uygulama.
+TR_MLSL_  Mobil Yaşam Tarzı. Hareketsiz Yaşam Tarzı. Toplumlar arasındaki cinsiyet farklılıklarının kökenleri.
+TR_MSFS_  Dünyayı kadın egemen toplum yönetecek.
+TR_MTR_  Genel olarak madde, davranış ve toplum. Canlılara ve insanlara uygulama.
+TR_SD_  Cinsiyet farklılıkları ve kadın egemenliği.
+TR_SPS_  Nemlilik. Parlaklık. Sıcaklık. Sertlik. Sıkılık. Gerginlik. Bunların algılanması ve hissedilmesi. Bunların sosyal psikolojik analize uygulanması.
